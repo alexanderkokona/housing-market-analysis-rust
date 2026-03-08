@@ -1,0 +1,14 @@
+/home/askokona/Documents/GitHub/housing-market-analysis-rust/target/debug/deps/serde-7a54695bd6e212cd.d: /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/askokona/Documents/GitHub/housing-market-analysis-rust/target/debug/build/serde-fd39febaf47a1fb8/out/private.rs
+
+/home/askokona/Documents/GitHub/housing-market-analysis-rust/target/debug/deps/libserde-7a54695bd6e212cd.rlib: /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/askokona/Documents/GitHub/housing-market-analysis-rust/target/debug/build/serde-fd39febaf47a1fb8/out/private.rs
+
+/home/askokona/Documents/GitHub/housing-market-analysis-rust/target/debug/deps/libserde-7a54695bd6e212cd.rmeta: /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/askokona/Documents/GitHub/housing-market-analysis-rust/target/debug/build/serde-fd39febaf47a1fb8/out/private.rs
+
+/home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/askokona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/askokona/Documents/GitHub/housing-market-analysis-rust/target/debug/build/serde-fd39febaf47a1fb8/out/private.rs:
+
+# env-dep:OUT_DIR=/home/askokona/Documents/GitHub/housing-market-analysis-rust/target/debug/build/serde-fd39febaf47a1fb8/out
